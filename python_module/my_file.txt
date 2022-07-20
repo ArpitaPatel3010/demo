@@ -1,0 +1,12 @@
+ Python file handling includes:read
+ write
+ open
+ close
+ read
+write
+open
+close
+read
+write
+open
+close
